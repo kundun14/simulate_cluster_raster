@@ -17,6 +17,20 @@ library(spMM)
 #####
 
 
+#####
+##### MOD 2
+#####
+
+
+
+library(terra)
+
+
+
+
+#####
+##### 
+#####
 
 
 # Load the required library
