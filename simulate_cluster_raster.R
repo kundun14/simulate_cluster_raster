@@ -48,6 +48,24 @@ library(sf)
 ##### 
 #####
 
+#####
+##### MOD 4
+#####
+
+
+
+library(ggmap)
+
+
+
+
+#####
+##### 
+#####
+
+
+
+
 
 # Load the required library
 library(raster)
