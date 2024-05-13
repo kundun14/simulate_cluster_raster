@@ -33,6 +33,22 @@ library(terra)
 #####
 
 
+#####
+##### MOD 3
+#####
+
+
+
+library(sf)
+
+
+
+
+#####
+##### 
+#####
+
+
 # Load the required library
 library(raster)
 
