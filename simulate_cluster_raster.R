@@ -64,7 +64,20 @@ library(ggmap)
 #####
 
 
+#####
+##### MOD 1 
+#####
 
+
+
+library(spline)
+
+
+
+
+#####
+##### 
+#####
 
 
 # Load the required library
