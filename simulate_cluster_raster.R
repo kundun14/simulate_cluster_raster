@@ -65,7 +65,7 @@ library(ggmap)
 
 
 #####
-##### MOD 1 
+##### MOD 5
 #####
 
 
@@ -78,6 +78,23 @@ library(spline)
 #####
 ##### 
 #####
+
+
+#####
+##### MOD 6
+#####
+
+
+
+library(tidyterra)
+
+
+
+
+#####
+##### 
+#####
+
 
 
 # Load the required library
