@@ -2,6 +2,32 @@
 
 
 #####
+##### FEATURE 1 
+#####
+
+
+# ESTE CODIGO HACE ALGO NUEVO 
+
+
+fun1 <- function(x){
+  for (i in vector) {
+    y <- do(x)
+  }
+  return(y)
+}
+
+
+
+#####
+##### 
+#####
+
+
+
+
+
+
+#####
 ##### MOD 1 
 #####
 
